@@ -1,1 +1,27 @@
 https://skan-my.sharepoint.com/:f:/g/personal/rakesh_kumar_skan_ai/EqDD0mQUNydIn1Lw-AkFHysBOsIYYCah53EycIkZYnD4JQ?e=72gfof
+
+# Sample skandebug.config
+# 0 = Disable, 1 = Enable
+
+EnableDebug=1
+CreateBitMap=0
+CursorPos=1
+ForegroundWindow=1
+EventBoundingRect=0
+ForegroundWindowByPoint=0
+WindowTitle=1
+WindowPopup=0
+SelectedElement=1
+AutomationID=1
+AutomationName=1
+LegacyProperties=0
+EventControlPath=1
+DataFields=0
+ScalingFactor=1
+DisplaySetting=1
+UseScaleFactor=1
+EventLocation=0
+ScreenInfo=1
+Url=0
+AclAndAccKeys=0
+Attribute=1
